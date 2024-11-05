@@ -1,0 +1,2 @@
+0001;Hemalka Perera;25454789;2000457889;2023/05/02;Mechenical;Worker;49050;
+0002;Oksan mowindu;754878;2004582471;2023/04/05;IT;Assitant Manager;80000;
